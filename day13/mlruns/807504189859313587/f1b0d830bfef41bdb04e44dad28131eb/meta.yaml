@@ -1,0 +1,14 @@
+artifact_uri: file:///home/student/bootcamp/day13/mlruns/807504189859313587/f1b0d830bfef41bdb04e44dad28131eb/artifacts
+end_time: 1783575425163
+entry_point_name: ''
+experiment_id: '807504189859313587'
+lifecycle_stage: active
+run_id: f1b0d830bfef41bdb04e44dad28131eb
+run_name: rumbling-mole-823
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783575424022
+status: 3
+tags: []
+user_id: student

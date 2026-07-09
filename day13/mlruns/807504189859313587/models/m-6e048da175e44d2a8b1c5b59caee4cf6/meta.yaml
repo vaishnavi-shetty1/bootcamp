@@ -1,0 +1,10 @@
+artifact_location: file:///home/student/bootcamp/day13/mlruns/807504189859313587/models/m-6e048da175e44d2a8b1c5b59caee4cf6/artifacts
+creation_timestamp: 1783575425370
+experiment_id: '807504189859313587'
+last_updated_timestamp: 1783575426284
+model_id: m-6e048da175e44d2a8b1c5b59caee4cf6
+model_type: null
+name: RandomForestModel
+source_run_id: ee7a188ca101450e95e7ee8383f033a2
+status: 2
+status_message: null

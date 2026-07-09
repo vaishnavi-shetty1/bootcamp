@@ -1,0 +1,14 @@
+artifact_uri: file:///home/student/bootcamp/day13/mlruns/807504189859313587/fe942f46167b46ef95cd418ca59a473a/artifacts
+end_time: 1783575424021
+entry_point_name: ''
+experiment_id: '807504189859313587'
+lifecycle_stage: active
+run_id: fe942f46167b46ef95cd418ca59a473a
+run_name: masked-stoat-518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783575422902
+status: 3
+tags: []
+user_id: student

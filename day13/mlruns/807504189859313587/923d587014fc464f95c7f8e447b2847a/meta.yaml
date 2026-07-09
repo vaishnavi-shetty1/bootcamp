@@ -1,0 +1,14 @@
+artifact_uri: file:///home/student/bootcamp/day13/mlruns/807504189859313587/923d587014fc464f95c7f8e447b2847a/artifacts
+end_time: 1783584940970
+entry_point_name: ''
+experiment_id: '807504189859313587'
+lifecycle_stage: active
+run_id: 923d587014fc464f95c7f8e447b2847a
+run_name: agreeable-gull-874
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783584939813
+status: 3
+tags: []
+user_id: student

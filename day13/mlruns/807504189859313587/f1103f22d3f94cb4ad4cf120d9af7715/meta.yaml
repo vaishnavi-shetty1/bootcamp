@@ -1,0 +1,14 @@
+artifact_uri: file:///home/student/bootcamp/day13/mlruns/807504189859313587/f1103f22d3f94cb4ad4cf120d9af7715/artifacts
+end_time: 1783584939812
+entry_point_name: ''
+experiment_id: '807504189859313587'
+lifecycle_stage: active
+run_id: f1103f22d3f94cb4ad4cf120d9af7715
+run_name: kindly-bass-384
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783584938668
+status: 3
+tags: []
+user_id: student

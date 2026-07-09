@@ -1,0 +1,14 @@
+artifact_uri: file:///home/student/bootcamp/day13/mlruns/807504189859313587/58c0a4d2ca9044288b3fd70e4584ca0a/artifacts
+end_time: 1783575427459
+entry_point_name: ''
+experiment_id: '807504189859313587'
+lifecycle_stage: active
+run_id: 58c0a4d2ca9044288b3fd70e4584ca0a
+run_name: popular-vole-80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783575426285
+status: 3
+tags: []
+user_id: student

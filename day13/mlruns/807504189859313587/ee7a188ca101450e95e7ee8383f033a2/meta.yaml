@@ -1,0 +1,14 @@
+artifact_uri: file:///home/student/bootcamp/day13/mlruns/807504189859313587/ee7a188ca101450e95e7ee8383f033a2/artifacts
+end_time: 1783575426284
+entry_point_name: ''
+experiment_id: '807504189859313587'
+lifecycle_stage: active
+run_id: ee7a188ca101450e95e7ee8383f033a2
+run_name: amazing-lamb-258
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783575425164
+status: 3
+tags: []
+user_id: student

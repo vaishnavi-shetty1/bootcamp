@@ -1,0 +1,14 @@
+artifact_uri: file:///home/student/bootcamp/day13/mlruns/807504189859313587/909043b183ef43bea1fc263ed097c403/artifacts
+end_time: 1783584937527
+entry_point_name: ''
+experiment_id: '807504189859313587'
+lifecycle_stage: active
+run_id: 909043b183ef43bea1fc263ed097c403
+run_name: respected-carp-631
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783584936343
+status: 3
+tags: []
+user_id: student

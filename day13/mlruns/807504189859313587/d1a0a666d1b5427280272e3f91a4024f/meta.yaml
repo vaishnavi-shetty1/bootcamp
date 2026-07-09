@@ -1,0 +1,14 @@
+artifact_uri: file:///home/student/bootcamp/day13/mlruns/807504189859313587/d1a0a666d1b5427280272e3f91a4024f/artifacts
+end_time: 1783575422900
+entry_point_name: ''
+experiment_id: '807504189859313587'
+lifecycle_stage: active
+run_id: d1a0a666d1b5427280272e3f91a4024f
+run_name: luxuriant-stag-640
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783575421401
+status: 3
+tags: []
+user_id: student
