@@ -1,31 +1,33 @@
-#include<stdio.h>
+#include <stdio.h>
 
-
-int a[100],n,key,l,r,mid;
-
-int binrec(int a[],int key,int l, int r, int mid){
-	for(int i=l;i<r;i++)
-		return printf("key found at %d",mid);
+int binary(int arr[], int key, int l, int r){
+    if(l>r){
+        return -1;
+    }
+    int mid=(l+r)/2;
+    if(arr[mid]==key){
+        return mid;
+    } else if(arr[mid]>key) {
+        return binary(arr, key, l, mid-1);
+    } else {
+        return binary(arr, key, mid+1, r);
+    }
 }
 
 void main(){
-	printf("enter n: ");
-	scanf("%d",&n);
-	printf("enter the elements: ");
-	for(int i=0;i<n;i++){
-		scanf("%d",&a[i]);
-	}
-	printf("enter key: ");
-	scanf("%d",&key);
-	l=0;r=n-1;mid=(l+r)/2;
-	while(l<r){
-		if(a[mid]==key)
-			printf("key found at %d",mid+1);
-		else if(a[mid]>key)
-			return binrec(a,key,l=0,r=mid-1,mid);
-		else
-			return binrec(a,key,l=mid+1,r=n-1,mid);
-	}
-	if(a[mid]!=key)
-		printf("key not found");
+    int arr[100], n, key;
+    printf("Enter n: ");
+    scanf("%d", &n);
+    printf("Enter the elements: ");
+    for(int i=0; i<n; i++){
+        scanf("%d", &arr[i]);
+    }
+    printf("Enter the key: ");
+    scanf("%d", &key);
+    int res = binary(arr, key, 0, n-1);
+    if(res==-1){
+        printf("Element not found!\n");
+    } else {
+        printf("element found at %d\n", res);
+    }
 }
