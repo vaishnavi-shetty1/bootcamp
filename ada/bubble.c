@@ -10,7 +10,6 @@ void main(){
 	
 	int s_index=0;
 	for(i=0;i<n-1;i++){
-		//flag=0;
 		for(j=0;j<n-1-i;j++){
 			if(a[j]>a[j+1]){
 				s_index=j+1;
